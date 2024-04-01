@@ -1,0 +1,1 @@
+# sdcard-component-esp32
